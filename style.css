@@ -1,0 +1,18 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  display: block;
+}
+
+input {
+  width: 60%;
+  height: 24px;
+  border-radius: 24px;
+  border: 1px solid #424242;
+  padding: 10px;
+  background-color: #000000;
+  color: white;
+  text-align: center;
+}
