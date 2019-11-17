@@ -1,6 +1,6 @@
 // fire graphic based of work by aferriss https://editor.p5js.org/aferriss/sketches/SyTRx_bof
 
-// music by 
+// music by Lemoncreme on https://freesound.org/
 
 let mono;
 
